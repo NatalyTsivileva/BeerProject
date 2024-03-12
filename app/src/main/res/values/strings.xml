@@ -1,3 +1,8 @@
 <resources>
 	<string name="app_name">BeerProject</string>
+
+	<string name="menu_item_main">Main</string>
+	<string name="menu_item_event">Event</string>
+	<string name="menu_item_catalog">Catalog</string>
+	<string name="menu_item_account">Account</string>
 </resources>

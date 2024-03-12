@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<style name="TextAppearance" />
+
+	<style name="TextAppearance.Roboto">
+		<item name="font">@font/roboto</item>
+	</style>
+
+	<style name="TextAppearance.Roboto.Regular14">
+		<item name="android:textSize">14sp</item>
+	</style>
+
+	<style name="TextAppearance.Roboto.Regular14.Black">
+		<item name="android:textColor">@android:color/black</item>
+	</style>
+</resources>

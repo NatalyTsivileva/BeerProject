@@ -1,0 +1,8 @@
+<resources>
+	<string name="app_name">BeerProject</string>
+
+	<string name="menu_item_main">Главная</string>
+	<string name="menu_item_event">Акции</string>
+	<string name="menu_item_catalog">Каталог</string>
+	<string name="menu_item_account">Аккаунт</string>
+</resources>
