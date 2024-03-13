@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<dimen name="m0">0dp</dimen>
+	<dimen name="m015">1dp</dimen>
+	<dimen name="m025">2dp</dimen>
+	<dimen name="m0255">3dp</dimen>
+	<dimen name="m05">4dp</dimen>
+	<dimen name="m055">5dp</dimen>
+	<dimen name="m075">6dp</dimen>
+	<dimen name="m1">8dp</dimen>
+	<dimen name="m125">10dp</dimen>
+	<dimen name="m15">12dp</dimen>
+	<dimen name="m175">14dp</dimen>
+	<dimen name="m2">16dp</dimen>
+	<dimen name="m225">18dp</dimen>
+	<dimen name="m25">20dp</dimen>
+	<dimen name="m3">24dp</dimen>
+	<dimen name="m35">28dp</dimen>
+	<dimen name="m4">32dp</dimen>
+	<dimen name="m425">34dp</dimen>
+	<dimen name="m45">36dp</dimen>
+	<dimen name="m5">40dp</dimen>
+	<dimen name="m55">44dp</dimen>
+	<dimen name="m6">48dp</dimen>
+	<dimen name="m7">56dp</dimen>
+	<dimen name="m75">60dp</dimen>
+	<dimen name="m8">64dp</dimen>
+	<dimen name="m815">68dp</dimen>
+	<dimen name="m9">72dp</dimen>
+	<dimen name="m925">74dp</dimen>
+	<dimen name="m95">76dp</dimen>
+	<dimen name="m10">80dp</dimen>
+	<dimen name="m105">84dp</dimen>
+	<dimen name="m11">88dp</dimen>
+</resources>

@@ -14,4 +14,28 @@
 	<style name="TextAppearance.Roboto.Regular14.Black">
 		<item name="android:textColor">@android:color/black</item>
 	</style>
+
+	<style name="CardImageView" />
+
+	<style name="CardImageView.Category">
+		<item name="android:layout_marginStart">@dimen/m2</item>
+		<item name="android:layout_marginEnd">@dimen/m2</item>
+		<item name="android:layout_marginTop">@dimen/m1</item>
+		<item name="android:layout_marginBottom">@dimen/m15</item>
+	</style>
+
+	<style name="CardTextView">
+		<item name="android:textAppearance">@style/TextAppearance.Roboto.Regular14.Black</item>
+		<item name="android:layout_marginStart">@dimen/m2</item>
+		<item name="android:layout_marginEnd">@dimen/m2</item>
+		<item name="android:layout_marginBottom">@dimen/m2</item>
+		<item name="android:ellipsize">end</item>
+		<item name="android:maxLines">2</item>
+		<item name="android:textAlignment">center</item>
+	</style>
+
+	<style name="AddButtonStyle" parent="Widget.MaterialComponents.Button.Icon">
+		<item name="icon">@drawable/ic_add</item>
+		<item name="backgroundTint">@color/btn_add_to_basket_color</item>
+	</style>
 </resources>
