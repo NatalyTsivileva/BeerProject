@@ -34,7 +34,6 @@ class CatalogFragment : Fragment(R.layout.fr_catalog) {
 			it.layoutManager = GridLayoutManager(context, 2)
 			recyclerAdapter = CatalogRecyclerAdapter(object : OnCatalogClickListener{
 				override fun OnClick(item: CatalogItem) {
-					TODO("Navigate to details")
 				}
 			})
 			it.adapter = recyclerAdapter
